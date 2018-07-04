@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.9.8\2648f2bf0caac922da2643ac57dd93b45846eff5\gdx-controllers-android-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2648f2bf0caac922da2643ac57dd93b45846eff5">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-controllers-android-1.9.8_f0b01c85e64d1e7d3eda990571ce91bee4744262\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\gdx-1.9.8_8216f3bd4d6565d2f90e151f98a074d9a1920980.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.8\8cdc9ab6826a74594c3b0084d8a7669f8124592b\gdx-controllers-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8cdc9ab6826a74594c3b0084d8a7669f8124592b">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\gdx-controllers-1.9.8_69de0630f99a8001ac120e7171d52ec4edd683a9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers\1.9.8\8cdc9ab6826a74594c3b0084d8a7669f8124592b\gdx-controllers-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="8cdc9ab6826a74594c3b0084d8a7669f8124592b">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-controllers-1.9.8_69de0630f99a8001ac120e7171d52ec4edd683a9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Spaceshooter\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_116e486a1872efc80a0234ce194a16cdd56445f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\box2dlights-1.4_2ffc3832d640eb63923f705aff39fb0d1078b9db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.8\a35a0076fbce873f9c2d5a1a1c8066244231bb3c\gdx-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a35a0076fbce873f9c2d5a1a1c8066244231bb3c">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.8_8216f3bd4d6565d2f90e151f98a074d9a1920980\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.9.8_3fe3ef2e21bfb6430d1e1910e037697ed635e548.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-controllers-android\1.9.8\2648f2bf0caac922da2643ac57dd93b45846eff5\gdx-controllers-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2648f2bf0caac922da2643ac57dd93b45846eff5">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\gdx-controllers-android-1.9.8_f0b01c85e64d1e7d3eda990571ce91bee4744262.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-bullet\1.9.8\7f6d7421bc365d49246b65f0528978fd0c8524ed\gdx-bullet-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7f6d7421bc365d49246b65f0528978fd0c8524ed">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-bullet-1.9.8_cd4a4127178ce328cddb08bced8c6178fa655c81\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.9.8\6f0497b7958216464101adfb7bdc3a0f7b88d6d3\gdx-box2d-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6f0497b7958216464101adfb7bdc3a0f7b88d6d3">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-box2d-1.9.8_3fe3ef2e21bfb6430d1e1910e037697ed635e548\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Spaceshooter\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="dc42334fe46c98ba1d1029d18508c488359e4d16">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_f30fbbce1505bb6c71dfa858507d24ecbd224637\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Spaceshooter\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="6d5d3e090b9ad95441e624f75940bca6da3c4145">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\core-1.0_f0061570528350d0ff7f32ed959e2bdde4ea2653.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-bullet\1.9.8\7f6d7421bc365d49246b65f0528978fd0c8524ed\gdx-bullet-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7f6d7421bc365d49246b65f0528978fd0c8524ed">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\gdx-bullet-1.9.8_cd4a4127178ce328cddb08bced8c6178fa655c81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.box2dlights\box2dlights\1.4\3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd\box2dlights-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3d77ad5b4164fb32fc67e2446e35911bb0aaf0bd">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\box2dlights-1.4_2ffc3832d640eb63923f705aff39fb0d1078b9db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.8_24a5db714fd59181ca3023bf3afbe734805ae868\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.8\84024cd60ad6f26370891fbcd17de9f0167e662\gdx-backend-android-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="084024cd60ad6f26370891fbcd17de9f0167e662">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.8_24a5db714fd59181ca3023bf3afbe734805ae868.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.8\d92b5b8beab10e3b3c0dd836d4fc186f95e7ea4b\gdx-freetype-1.9.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d92b5b8beab10e3b3c0dd836d4fc186f95e7ea4b">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-freetype-1.9.8_6c9fab436b70203791f42db6698e0d36dfa3ee64\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-freetype\1.9.8\d92b5b8beab10e3b3c0dd836d4fc186f95e7ea4b\gdx-freetype-1.9.8.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d92b5b8beab10e3b3c0dd836d4fc186f95e7ea4b">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\gdx-freetype-1.9.8_6c9fab436b70203791f42db6698e0d36dfa3ee64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-ai\1.8.0\ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5\gdx-ai-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\gdx-ai-1.8.0_67d4883f4fbbf7cb25a9c2369dc5d0c75c1f47a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.7.0\a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4\ashley-1.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\ashley-1.7.0_b4dc5ce361d79583d7e68ef8054d4e8461427726\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-ai\1.8.0\ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5\gdx-ai-1.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ec30677d8ab1a8b8aa4b853c5f4e4b1361f50bf5">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-ai-1.8.0_67d4883f4fbbf7cb25a9c2369dc5d0c75c1f47a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HP\.gradle\caches\modules-2\files-2.1\com.badlogicgames.ashley\ashley\1.7.0\a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4\ashley-1.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7c4083c0a42027a3c03ba7ccecef6cbe1c5f0a4">
+        <dex dex="D:\Spaceshooter\android\build\intermediates\pre-dexed\debug\ashley-1.7.0_b4dc5ce361d79583d7e68ef8054d4e8461427726.jar" />
+    </item>
+
+</items>
